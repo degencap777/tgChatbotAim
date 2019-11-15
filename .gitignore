@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+
+#AIML
+brain.dump
+std-startup.aiml
+/standard
+nohup.out
